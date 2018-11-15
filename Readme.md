@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/CarouselPointPathFunction/Window1.xaml) (VB: [Window1.xaml](./VB/CarouselPointPathFunction/Window1.xaml))
+<!-- default file list end -->
 # How to anchor a Carousel's items to specific points
 
 
